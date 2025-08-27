@@ -7,7 +7,7 @@
 A **content-based movie recommender system** built using **Python, Pandas, Scikit-learn, and Streamlit**.  
 It suggests movies similar to the one selected by the user based on movie metadata.
 ## 📸 Screenshot
-![App Screenshot](Screenshot 2025-08-27 155420.png)
+![App Screenshot](Sc.png)
 
 ---
 
